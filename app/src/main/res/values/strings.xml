@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Homework8</string>
+    <string name="Hearme">Listen to the best music everyday with<font color= '#1DAA23' > Hearme</font> now!</string>
+    <string name="sign_up">Don\'t have an account?<font color= '#1DAA23' > Sign up</font></string>
+
+</resources>
